@@ -1,5 +1,5 @@
-# WebServer
-Web Servers- Thread Pool, Multi-Threaded and Single Threaded 
+# WebServers
+Three Web Servers: Thread Pool, Multi-Threaded and Single Threaded 
 
 ### Thread Pool Demo 
 Example: 120k threads per minute ~ 2000 threads per second using JMeter
